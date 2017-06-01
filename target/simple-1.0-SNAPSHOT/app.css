@@ -1,0 +1,9 @@
+.blueUser {
+    border: 1px solid black;
+    background-color: lightblue;
+}
+
+.redUser {
+    border: 1px solid black;
+    background-color: lightcoral;
+}
